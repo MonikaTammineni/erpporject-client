@@ -1,0 +1,155 @@
+h1, h4, h6 {
+  color: rgb(165,28,36);
+  text-align: center;
+}
+h5{
+  color:rgb(165,28,36);
+  text-align: center;
+}
+h2{
+  margin-top:5vh;
+  color: rgb(165,28,36);
+  text-align: center;
+}
+.header{
+  background-color: #dddddd;
+  margin-bottom: 0;
+}
+/*
+img {
+  position: absolute;
+  top:0;
+  left:0;
+  display: block;
+  margin-top: 2.5vh;
+  width:5vh;
+  align-items: left;
+}*/
+
+table{
+  border-collapse: collapse;
+  align-items: center;
+  margin-left: auto;
+  margin-right: auto;
+  width: 500px;
+}
+
+th,td{
+  text-align: center;
+}
+th{
+  width:20%;
+}
+
+body{
+  background-color: white;
+}
+
+.header2{
+  background-color:rgb(165,28,36) ;
+  height:5vh;
+  margin: 0;
+}
+.header{
+  background-color: #dddddd;
+}
+
+.card-container {
+  padding-left: 150px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 40px; 
+  margin: 50px;
+
+}
+
+.cardborder {
+  border: 1px solid #ccc;
+  padding: 20px;
+  display: flex;
+  width: calc(25% - 20px);
+  flex-direction: column;
+  align-items: center;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  font-family: Arial, sans-serif;
+  border-radius: 5%;
+}
+
+.card-title {
+  font-size: 1.5rem;
+  text-align: center; 
+}
+
+.combined-header {
+  background-color: #dddddd;
+  height: 5vh;
+}
+/*
+img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: block;
+  margin-top: 1.5vh;
+  width: 5vh;
+  align-items: left;
+}*/
+/*
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #f0f0f0;
+  padding: 10px; 
+  height: 5vh;
+}
+
+.left-section {
+  display: flex;
+  align-items: center;
+}
+
+.left-section img {
+  width: 100px; 
+  margin-right: 10px;
+}
+.erp{
+  color: #337AB7;
+  display: inline-block;
+  transform: skew(-10deg);
+}
+.center-section {
+  text-align: center;
+}
+
+.right-section {
+  display: flex;
+  align-items: center;
+}
+
+.right-section button {
+  margin-left: 10px;
+  padding: 5px 10px;
+  border: none;
+  background-color: #ccc;
+  cursor: pointer;
+}
+*//*
+h6{
+  font-size: large;
+  color: black;
+}
+.red{
+  background-color: rgb(165,28,36);
+  height: 13vh;
+}
+
+table {
+  width: 40%; 
+}
+
+td {
+  width: 50%; 
+}
+
+*/
